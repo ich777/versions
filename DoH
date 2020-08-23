@@ -1,2 +1,2 @@
 LATEST=2.2.2
-FORK=
+FORK=2.2.2
