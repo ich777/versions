@@ -1,4 +1,4 @@
-MEDIADRV=intel-media-20.4.5
-GMMLIB=intel-gmmlib-20.4.1
+MEDIADRV=intel-media-21.1.3
+GMMLIB=intel-gmmlib-21.1.1
 
 UPDATED=2021-04-02T14:05Z
