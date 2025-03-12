@@ -1,4 +1,4 @@
 # Versions
 
 Repository to keep track from versions numbers of different applications (updated every 2 hours).
-The line 'UPDATED=' shows the last update date and time UTC (in ISO 8601 standard).
+The file [ZZZ_repo_update](https://github.com/ich777/versions/blob/master/ZZZ_repo_update) shows the time of the last repository update in Unix Epoch format.
